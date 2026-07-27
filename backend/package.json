@@ -25,8 +25,8 @@
     "langgraph:dev": "npx @langchain/langgraph-cli dev"
   },
   "dependencies": {
-    "@langchain/community": "^0.3.26",
-    "@langchain/core": "^0.3.32",
+    "@langchain/community": "^1.1.16",
+    "@langchain/core": "^1.1.26",
     "@langchain/langgraph": "^0.2.41",
     "@langchain/langgraph-cli": "^0.0.1",
     "@langchain/langgraph-sdk": "^0.0.36",
